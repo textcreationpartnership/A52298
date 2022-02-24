@@ -1,0 +1,181 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a Jesuit at Paris, to his correspondent in London shewing the most effectual way to ruine the government and Protestant religion.</title>
+            <author>Nalson, John, 1638?-1686.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52298</idno>
+            <idno type="STC">Wing N110</idno>
+            <idno type="STC">ESTC R11719</idno>
+            <idno type="EEBO-CITATION">13118953</idno>
+            <idno type="OCLC">ocm 13118953</idno>
+            <idno type="VID">97805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52298)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 97805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 746:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a Jesuit at Paris, to his correspondent in London shewing the most effectual way to ruine the government and Protestant religion.</title>
+                  <author>Nalson, John, 1638?-1686.</author>
+               </titleStmt>
+               <extent>11 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Jonathan Edwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: D.P.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:97805:1"/>
+            <pb facs="tcp:97805:1"/>
+            <p>A LETTER FROM A JESUIT at <hi>PARIS,</hi> TO HIS CORRESPONDENT in <hi>LONDON;</hi> Shewing the moſt effectual way to ruine the GOVERNMENT AND PROTESTANT RELIGION.</p>
+            <p>
+               <hi>LONDON,</hi> Printed, and are to be ſold by <hi>Jonathan Edwin,</hi> at the <hi>Three Roſes</hi> in <hi>Ludgate-ſtreet.</hi> 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:97805:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:97805:2"/>
+            <head>A LETTER FROM A JESUIT at <hi>PARIS,</hi> To his Correſpondent in LONDON, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Dear Sir,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">P</seg>Oſt varios Caſus, poſt tot diſcrimina</hi>— After many fears and frights, I thank our Bleſſed <hi>Lady,</hi> I am ſafe got out of the mouth of the <hi>Lion,</hi> and have got the <hi>Sea</hi> between me and Danger. It would be troubleſome to repeat to you the Hazzards I have run; how often I was upon the brink of being diſcovered and taken by the <hi>Hereticks,</hi> who had laid all the Sea-Ports, to arreſt all ſuch as ſhould attempt to paſs over the <hi>Seas;</hi> but in regard I have ſomething of more Moment and Concern for the <hi>Catholick Cauſe</hi> to impart to you, I will not ſtuff out this Pacquet with thoſe
+<pb n="4" facs="tcp:97805:3"/>relations, with the remembrance of which, I hope here<g ref="char:EOLhyphen"/>after to laugh away ſome pleaſant hours with you.</p>
+            <p>I give you thanks for the Account of <hi>Affairs</hi> which I have now before me; and you are deſired ſtill to continue it, in regard you may d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it with great ſecurity, both by reaſon of the Way by which it comes, and the <hi>Character</hi> to which it is committed, which I think no perſon living beſides your ſelf has a Key of: and how ingenious ſoever ſome in <hi>Haereticopolis</hi> may be in expounding <hi>Cyphers,</hi> this will coſt them ſome time to Underſtand.</p>
+            <p>I underſtand by the Encloſed <hi>Proclamation,</hi> that the Im<g ref="char:EOLhyphen"/>mortal <hi>Parliament,</hi> as 'twas believed, is at laſt diſſolved; and immediately upon the receipt of yours, I communicated it to their <hi>Reverences,</hi> the Fathers, <hi>L. C. D. F,</hi> and <hi>P.</hi> The next day they ſummoned together ſuch as we put confidence in, to enter upon an immediate <hi>Conſult</hi> upon this traverſe of our Affairs. Their <hi>Reverences</hi> were under as great diſappointments, and as many diſturbances as you can well imagine; this ſhort turn having utterly broken all the meaſures they had ſo wiſely taken: and for ſome<g ref="char:EOLhyphen"/>time they were unreſolved what Courſe to ſteer, being uncertain of what complexion and temper a new <hi>Parliament</hi> might prove.</p>
+            <p>True it is, the late <hi>Parliament</hi> were in Reality, as we had reaſon to believe, moſtly in their Judgment enemies enough to <hi>Catholicks;</hi> but we had ſo well managed our Affairs, as to poſſeſs ſome of the moſt active and hot-ſpirited among them, the <hi>Bellweathers</hi> of the Houſe, who lead the whole Flock. That there was an abſolute Neceſſity, Firſt to run down ſome <hi>Great Ones,</hi> who interpoſed, as we perſuaded the <hi>World,</hi> in favour of us; and that unleſs they wore taken out of the way, there could be nothing done to purpoſe, either to diſcover the bottom of the Deſign, or to puniſh the Perſons principally accuſed for the <hi>Plot,</hi> as they call it. This was a <hi>Method</hi> which it was judged would take them off from the violent Chaſe and purſuit of poor
+<pb n="5" facs="tcp:97805:3"/>
+               <hi>Catholicks,</hi> who were now upon the dreadful brink of a moſt terrible <hi>Perſecution;</hi> and to divert the Storm, nothing could be more conducive, than to daſh theſe black clouds one againſt another, and diſcharge their Thunders mutually up<g ref="char:EOLhyphen"/>on themſelves: for if we could this or any other way en<g ref="char:EOLhyphen"/>gage the <hi>Hereticks</hi> deep enough in a <hi>Quarrel</hi> among them<g ref="char:EOLhyphen"/>ſelves, by the induſtry of our Party among them, we could not tell how far theſe diſcords and oppoſitions might tranſ<g ref="char:EOLhyphen"/>port them, nor what would be the conſequences or events of a Fire-ball in the H. C. We have had no contemptible ſucceſs with ſuch Engines in other occaſions; and it was hoped it might at laſt put the <hi>Nation,</hi> and eſpecially the <hi>City,</hi> into a general <hi>Mutiny</hi> upon the diſappointment of their expectations; there being nothing ſo unanimouſly deſired, or ſo paſſionately longed for, as to ſee all private heats laid aſide, to proſecute the main buſineſs of the <hi>Plot.</hi> And ſhould it have come to a Popular Tumult, we ſhould not have been wanting to have made conſiderable advantages of it; and under the colour of being <hi>Popiſhly affected,</hi> and obſtructing the proſecution of the <hi>Plot,</hi> few of our enemies ſhould have ſurvived the fury of the <hi>Tumult;</hi> and it may be we might have made the <hi>Hereticks</hi> themſelves help to reduce their new <hi>Babylon</hi> to Cinders a ſecond time, and in that confuſion have done ſome executions which I will not name. However, if that ſhould not happen, we were hereby aſſured, that we ſhould for ſome time divert the imminent danger which threat<g ref="char:EOLhyphen"/>ned <hi>Catholicks</hi> in general, and thoſe Noble Lords in parti<g ref="char:EOLhyphen"/>cular; and no man knows what the very gaining a little time may produce in favour of us; <hi>Multa cadunt inter pe<g ref="char:EOLhyphen"/>culum, ſupremaque labra.</hi>
+            </p>
+            <p>This courſe we knew was very pleaſing to many, who, as our worthy Friend, the much lamented Mr. <hi>C.</hi> had judi<g ref="char:EOLhyphen"/>ciouſly obſerved, to revenge their private <hi>Piques,</hi> had of a long time ſet themſelves to oppoſe the <hi>Miniſters</hi> of <hi>State,</hi> and to whom ſuch a promiſing opportunity was <hi>Muſcadine and Eggs;</hi> and beſides, it was infinitely taking and popular
+<pb n="6" facs="tcp:97805:4"/>to all the Diſcontented and Factious, who, I am perſuaded, would joyn with the <hi>Catholicks,</hi> the <hi>French,</hi> or the <hi>Great Turk,</hi> rather than loſe the pleaſure of ſeeing ſome great Per<g ref="char:EOLhyphen"/>ſons take the <hi>Sommerſet</hi> from the Battlements of Honour, eſpecially ſuch as they are made believe are Enemies to their Liberties and <hi>Religion,</hi> which are but one thing with two names.</p>
+            <p>However, we were ſure of this advantage, that by degrees we ſhould perſuade People, that there never was any ſuch thing as any Deſign among the <hi>Catholicks</hi> againſt the <hi>King</hi> and Government; there being no more evident Demonſtra<g ref="char:EOLhyphen"/>tion, that the <hi>H. C.</hi> did not believe there was any real <hi>Plot,</hi> than both, their violent proceeding upon disbanding the <hi>Army,</hi> even when 'twas ſaid and ſworn before them, that there were 20000 men in a readineſs to attend the fatal blow; and that the King of <hi>France</hi> with his whole Power was ready to ſtrike in with the <hi>Catholicks;</hi> as alſo their running ſo furiouſly upon the <hi>Miniſters</hi> of State, in ſtead of the <hi>Ca<g ref="char:EOLhyphen"/>tholick Lords,</hi> as being the more dangerous <hi>Conſpirators.</hi> And, it may be, we have loſt no ground by this <hi>Artifice,</hi> and thereby confirming what we did at firſt, and have all along given out, and ſpread abroad, That it was in reality a Plot of the <hi>Presbyterians</hi> againſt his <hi>Majeſty</hi> and the Go<g ref="char:EOLhyphen"/>vernment; and that under the pretence of a <hi>Plot</hi> of the <hi>Pa<g ref="char:EOLhyphen"/>piſts,</hi> all ſuch as were friends to the <hi>Church or Crown</hi> ſhould be accuſed to be <hi>Popiſhly</hi> affected; and thus by ruining the Supporters, the <hi>Crown</hi> muſt fall of courſe; this was the way in which they, by our aſſiſtance, ſo ſucceſsfully pro<g ref="char:EOLhyphen"/>ceeded in 41. and nothing could make it more plain, than that the ſame <hi>Party</hi> was playing their old Leſſons over again. And as we did then in a great meaſure happily effect our Deſigns, and manage the Heats, till they burnt down all, ſo we were not without hopes to do the ſame, and like Flints, by ſtriking them one againſt another, to daſh them in pieces, and fire the ſeveral Factions; and when they were of all ſides ſufficiently weaken'd, under pretence of ſupport<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:97805:4"/>the weaker <hi>Party,</hi> to bring in the Power of the moſt <hi>Chriſtian King,</hi> to make them Friends by ſubduing both; which was an advantage we might reaſonably hope for now, but could not expect in the former <hi>Revolutions,</hi> while his Moſt <hi>Chriſtian Majesty</hi> was a <hi>Minor,</hi> and <hi>France</hi> it ſelf engaged in Domeſtick troubles.</p>
+            <p>But this <hi>Parliament</hi> and our hopes of it being both at an end, we are to conſider, how we may manage the next, and ſucceeding <hi>Parliaments,</hi> ſo as nothing may be done to our prejudice, and by conſequence, that they may become ad<g ref="char:EOLhyphen"/>vantagious to our <hi>pious Deſign</hi> of extirpating <hi>Hereſie,</hi> and propagating the <hi>Catholick Faith</hi> in <hi>England</hi> again. Upon our ſerious <hi>Conſult,</hi> it has been here, after mature delibera<g ref="char:EOLhyphen"/>on, agreed upon, to ſend you theſe following <hi>Reſolutions</hi> of their <hi>Reverences,</hi> who have done me the honour to aſſign me the <hi>Province,</hi> of taking care to tranſmit their <hi>Reſolves</hi> to you, and receive your Anſwers, and an account of the movement of our <hi>Affairs.</hi> You are therefore with all ſpeed and ſecreſie, to take care of the diſpatch of theſe <hi>Inſtructions</hi> to all ſuch Perſons as we may confide in, and you ſhall judge qualifi'd for an <hi>Employ</hi> of ſo great Truſt and Concern, that I may ſay, the whole <hi>Catholick.</hi> Intereſt and Hopes in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> depend upon the ſucceſs of this <hi>Negotiation.</hi>
+            </p>
+            <p>And <hi>firſt,</hi> as a thing previous to the <hi>Elections</hi> which ſhall be made, let the <hi>Emiſſaries</hi> in all <hi>Counties</hi> and <hi>Corporations,</hi> eſpecially ſuch as have <hi>Burgeſſes,</hi> be vigilant to enquire who are to be the <hi>Candidates</hi> for the ſucceeding Elections.</p>
+            <p>
+               <hi>Secondly,</hi> Uſe all endeavours among the <hi>Diſſenters,</hi> accor<g ref="char:EOLhyphen"/>ding to your intereſt, to get in as many of the late Members as you can; eſpecially <hi>P. C. B. M.</hi> &amp;c. Our excellent Friend <hi>M.</hi> has aſſured his Illuſtriouſneſs the <hi>N.</hi> that he will not fail to be in again, nor to do us the beſt ſervice he can, now, as well as in the laſt.</p>
+            <p>
+               <hi>Thirdly,</hi> If that cannot be done, but that new ones are ſet up, if they be Perſons firm in their <hi>Loyalty,</hi> and ſuch as have any the remoteſt dependence or expectance upon the
+<pb n="8" facs="tcp:97805:5"/>
+               <hi>Court</hi> or <hi>Army;</hi> then give out among the People, though <hi>en paſſant</hi> only, as you bait at your Inns, that to your certain knowledge ſuch <hi>Gentlemen</hi> are great <hi>Courtiers,</hi> and are of that part who deſign to reduce the <hi>Nation</hi> to the <hi>Model</hi> of <hi>France,</hi> by the arbitrary power of a ſtanding <hi>Army,</hi> thereby to Introduce and Eſtabliſh <hi>Popery</hi> among us, which you muſt be ſure to make moſt vehement and bitter <hi>Declamations</hi> againſt. If they are Perſons ſtrongly inclined to the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> then give out confidently that they are <hi>Papiſts</hi> in heart, and that you know where they have declared themſelves ſuch; and that it is moſt viſible by their being ſo much for <hi>Ceremo<g ref="char:EOLhyphen"/>nies.</hi> This all the <hi>Diſſenters</hi> will not only eaſily credit, but will be very helpful to us in ſpreading and juſtifying the <hi>Reports;</hi> theſe things ſpoken with confidence, and a pretence of ſome intimate knowledge of them, and that you now di<g ref="char:EOLhyphen"/>vulge theſe ſecrets out of ſincere affection to the <hi>Nation,</hi> rea<g ref="char:EOLhyphen"/>dy to be betray'd to <hi>Popery</hi> and <hi>Arbitrary Govrnment,</hi> will fly like <hi>Wildfire</hi> among the ordinary <hi>People,</hi> who will ſnowball it from hand to hand, and father it upon Perſons of <hi>Repute,</hi> not knowing the Original hand from whence it firſt came; and the repeated <hi>Eccho</hi> of their fears will both redouble and confirm it. By this means you ſhall with the Aſſiſtance of the <hi>Diſſenters,</hi> who greedily lay hold of this occaſion which they have ſo long wiſh't for and expected, be ſure to promote the Election of ſuch, eſpecially <hi>Burgeſſes,</hi> as are diſaffected both to the <hi>King</hi> and <hi>Church;</hi> and though poſſibly in many <hi>Counties</hi> the Loyalty and Intereſt of the <hi>Gentry</hi> will carry it againſt us in the <hi>Knights;</hi> yet the greateſt number conſiſting of the Corporation <hi>Repreſentatives,</hi> there we ſhall be too hard for them. And then mark what will follow upon this, they will meet with an invincible prejudice againſt the <hi>King</hi> and Eſta<g ref="char:EOLhyphen"/>bliſht Government, both <hi>Civil</hi> and <hi>Eccleſiaſtical;</hi> they will fall violently upon the <hi>Church</hi> as well as the <hi>Papiſts;</hi> they will be ſo taken up with their own Affairs and the <hi>Embroil<g ref="char:EOLhyphen"/>ments</hi> our friends will engage them in, that ours will ſleep, and being ſo hot and diſorderly, they will in probability ob<g ref="char:EOLhyphen"/>lige
+<pb n="9" facs="tcp:97805:5"/>the <hi>King</hi> to ſend them home again, and ſeek for ano<g ref="char:EOLhyphen"/>ther.</p>
+            <p>By this means the <hi>City</hi> and <hi>Country</hi> will be under the greateſt diſappointment and disſatisfaction immaginable, the <hi>Army</hi> which is undisbanded will be thought neceſſary to be kept up, but there being no money to pay them, they will be burdenſom and exaſperate the <hi>Country,</hi> and augment the jealouſie of a ſtanding <hi>Army;</hi> A Fleet muſt alſo be put to Sea, becauſe of the Alarms of the <hi>French,</hi> and when they come home, the Seamen muſt be turned adrift for their pay too; it may be a new <hi>Parliament</hi> may not be called in ſome time, but ſuch ways may be taken to raiſe money for the Publick neceſſity as may render the Government odious, and diſpoſe People to a General <hi>Inſurrection,</hi> and then the day's our own, then my <hi>Noble Lords</hi> will ſave their heads, for they muſt be tried by a <hi>Parliament,</hi> and if our Affairs jump luckily, they ſhall out-live <hi>Methuſalem,</hi> if they live to ſee a <hi>Parliament</hi> ſo Loyal as to give the King money or indea<g ref="char:EOLhyphen"/>vour to ſettle the Peace of the <hi>Nation.</hi>
+            </p>
+            <p>But in the ſecond place, if the <hi>Parliament</hi> ſhall ſit, and there appears any danger to us by their being unanimous, and ſo like to continue, and to bring the Lords to their Trial: all indeavours muſt be uſed by ſuch as can be got to be of our party, Firſt to run them again upon the <hi>Miniſters</hi> of <hi>State,</hi> as being <hi>Popiſhly affected,</hi> and deſigning to Subvert <hi>Parliaments,</hi> and introduce <hi>Arbitrary Government.</hi> I need not ſpeak much of this, you are ſufficiently inſtructed how to manage it, and cannot want a <hi>Crie</hi> to ſet it up.</p>
+            <p>Secondly, Obſtruct as much as poſſible the raiſing of money, and yet cry out of the imminent danger and fears of the <hi>French;</hi> it may be you will have reaſon and truth in that particular; however delay the money by asking ſuch unrea<g ref="char:EOLhyphen"/>ſonable things in recompence of it, that the <hi>money Bill</hi> upon ſuch terms may be rejected, and be ſure it may not be near enough for the preſent <hi>neceſſity;</hi> urge the miſpending of the great <hi>Revenue</hi> of the Crown, but l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y all the blame upon the
+<pb n="10" facs="tcp:97805:6"/>
+               <hi>Miniſters,</hi> you cannot miſs the King if you hit the other. This will put the <hi>King</hi> out of all hopes of this <hi>Parliament,</hi> and may poſſibly occaſion either a long <hi>Prorogation,</hi> or a <hi>Diſſolution,</hi> and we ſhall be better provided againſt a new <hi>Parliament</hi> then we could be now, being ſo much ſurprized in the diſſolution of the laſt. And beſides if this <hi>Parliament</hi> upon which the Factious have built ſuch hopes, be either Prorogued or Diſſolved, it will ſtill exaſperate the <hi>Nation,</hi> and they will be apt to receive the impreſſions of their own fears and jealouſies, as well as thoſe we muſt now ſow thick among the diſcontented; if it continues, we muſt ſtill play the ſame Game, and with Grievances, ſmart Votes, and ingrateful Addreſſes keep up and increaſe the miſunderſtand<g ref="char:EOLhyphen"/>ings, and widen the differences between the <hi>K.</hi> and the <hi>H. C.</hi>
+            </p>
+            <p>Thirdly, aſperſe all that are not of our <hi>Party,</hi> as <hi>Court-Pen<g ref="char:EOLhyphen"/>ſioners</hi> or <hi>Popiſhly affected,</hi> this will ſecure ours from being diſcovered, and will render the other <hi>Odious</hi> to the People; and hinder their being elected into a future <hi>Parliament,</hi> if this ſhould happen to be haſtily diſſolved.</p>
+            <p>Fourthly, Let our <hi>Party</hi> bring in a <hi>Bill</hi> for Comprehen<g ref="char:EOLhyphen"/>ſion or <hi>Toleration,</hi> if it does no other good, it will occaſion great heats and altercations, long debates, and will be an ex<g ref="char:EOLhyphen"/>cellent <hi>Remora</hi> to all other Affairs, it will make them highly the favourites of the Separatiſts who will be moſt active a<g ref="char:EOLhyphen"/>gainſt the <hi>Crown</hi> and <hi>Government,</hi> and if that can be paſſed, it is no matter how ſeverely it excludes all <hi>Catholicks</hi> from the benefit of <hi>Indulgence;</hi> it will certainly ruin the <hi>Church,</hi> and we ſhall be well enough able to do our buſineſs, and to prepare the People for a <hi>Rebellion</hi> under the ſhelter of the ſeveral <hi>Sects</hi> who hate both the <hi>King</hi> and <hi>Church</hi> ſufficiently already, and will in a little time become ſo numerous and confident, that by their help we may be able to effect our Deſign. This poli<g ref="char:EOLhyphen"/>tick <hi>Janus</hi> of a <hi>Toleration</hi> has alſo another face, for it will alienate the affections of thoſe who are zealous for the <hi>Church,</hi> from the Crown, when they ſee that give them up as a prey to their Enemies; and if it does not yet, it will diſable them
+<pb n="11" facs="tcp:97805:6"/>from doing it the ſervice they would in caſe of neceſſity; ſo that if it comes to a <hi>Rebellion,</hi> the K. will be deſtitute of aſſiſtance of all ſides, and muſt ſeek for aid among the <hi>Catho<g ref="char:EOLhyphen"/>licks</hi> and from foreign <hi>Power,</hi> and which way ſoever the <hi>Game</hi> goes, we ſhall be ſure not only to Save our <hi>Stakes,</hi> but to win by the hand.</p>
+            <p>
+               <hi>Dear Sir,</hi> be diligent and vigorous in the proſecution of theſe <hi>Inſtructions,</hi> and be aſſured that nothing ſhall be want<g ref="char:EOLhyphen"/>ing on the part of their <hi>Reverences</hi> to forward the <hi>Deſign,</hi> neither Mony for the preſent, nor Power for the future if occaſion offers. His Moſt <hi>Chriſtian Majeſty</hi> is now at intire liberty in Caſe of neceſſity, either to interpoſe for us, or aſſiſt us with his invincible Arms, and to promote ſo pious and Religious a <hi>Cauſe.</hi> Doubt nothing, but be of good Courage in the diſcharge of this high truſt repoſed in you, and aſſure your ſelf of Succeſs and proportionate Rewards on <hi>Earth,</hi> Eternal <hi>Fame,</hi> and Eternal <hi>Glory</hi> in the Heavenly <hi>Paradiſe.</hi> The <hi>Fathers</hi> ſend you theirs and the <hi>Apoſtolical Benediction;</hi> have me recommended to all our Friends. Our Bleſſed <hi>Lady</hi> and all Saints pray for you, and ſucceed your indeavours. Fail not to advertiſe us, how the wheel of Af<g ref="char:EOLhyphen"/>fairs moves, that ſo we may be able to adviſe and direct ac<g ref="char:EOLhyphen"/>cordingly, Farwell.</p>
+            <closer>
+               <signed>D. P.</signed>
+               <dateline>
+                  <hi>Paris</hi> 
+                  <date>
+                     <hi>Feb.</hi> 12. N. St. 167<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
